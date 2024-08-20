@@ -1,0 +1,4 @@
+uhel ABC ( = 030° 10'  5.0'' ) tvori  8.38 % souctu vnitrnich uhlu
+uhel BCD ( = 105° 20' 30.0'' ) tvori 29.26 % souctu vnitrnich uhlu
+uhel CDA ( = 153° 20' 15.0'' ) tvori 42.59 % souctu vnitrnich uhlu
+uhel DAB ( = 071° 09' 10.0'' ) tvori 19.76 % souctu vnitrnich uhlu

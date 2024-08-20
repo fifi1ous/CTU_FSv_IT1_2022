@@ -1,0 +1,5 @@
+uhel hodnota_uhlu [° ' '']
+ABC   25 41 16.325
+BCA   50 13 21.418
+CAB  104  5 22.257
+

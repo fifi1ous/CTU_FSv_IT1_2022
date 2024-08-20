@@ -1,0 +1,8 @@
+uhly ctyruhelniku ve stupnove mire
+(vrchol uhlu je prostredni pismeno identifikatoru uhlu)
+uhel hodnota_uhlu
+ABC   30° 10'  5''
+BCD  105° 20' 30''
+CDA  153° 20' 15''
+DAB   71°  9' 10''
+
